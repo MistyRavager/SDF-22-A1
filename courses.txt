@@ -1,0 +1,11 @@
+ID1504 cs49 cs28
+CS1023 cs33 cs28
+Course1 cs01
+Course2 cs49 cs01
+Course4 cs33
+Course5 cs03
+Course6 cs28
+EP1108 cs33 cs49
+Course7 cs33
+Course8
+Course9

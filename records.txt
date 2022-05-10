@@ -1,0 +1,5 @@
+cs33 4 Course7 null EP1108 null Course4 null CS1023 null
+cs49 3 EP1108 null Course2 null ID1504 null
+cs28 3 Course6 null CS1023 null ID1504 null
+cs01 2 Course2 null Course1 null
+cs03 1 Course5 null

@@ -1,0 +1,7 @@
+admin ad01 123
+student cs33 123
+student cs49 123
+student cs28 123
+student cs01 123
+student cs03 123
+faculty fa01 123 ID1504
